@@ -25,6 +25,7 @@
     - [Guidelines](./infra/guidelines/README.md)
         - [Static websites](./infra/guidelines/static-websites.md)
     - [Documentation](./infra/docs/README.md)
+        - [AWS Networking](./infra/docs/aws-networking.md)
         - [Bastion server](./infra/docs/bastion.md)
         - [Crater agents](./infra/docs/crater-agents.md)
         - [Discord moderation bot](./infra/docs/discord-mods-bot.md)
